@@ -1,0 +1,11 @@
+{
+  "name": "callbacks",
+  "version": "1.0.0",
+  "description": "Primer programa sobre el uso de callbacks 29-11-2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Ramirez Rojas",
+  "license": "ISC"
+}
